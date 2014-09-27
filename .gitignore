@@ -24,7 +24,7 @@ DerivedData
 #BASE
 #LOCAL
 #REMOTE
-.orig
+*.orig
 
 # CocoaPods
 #
