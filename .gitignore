@@ -20,10 +20,12 @@ DerivedData
 # Added by Boris (boris@tsbmob.com)
 # These files are generated as a result of a conflict merge resolution.
 #
-#BACKUP
-#BASE
-#LOCAL
-#REMOTE
+# *.BACKUP.*  *.BASE.*  *.LOCAL.*  *.REMOTE.*  needs to monitored to make sure there are no issues in hiding them
+#
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
 *.orig
 
 # CocoaPods
